@@ -31,20 +31,17 @@
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
 
-
-
-  
 ### Studying in this moment:
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Halwyr}/count.svg" /></p> 
 <br></div>
 
-![Snake animation](https://github.com/Halwyr/Halwyr/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://media.tenor.com/qJ5HltbET7gAAAAd/laptop.gif" alt="Laptop GIF">
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=013F9A&height=120&section=footer"/>
