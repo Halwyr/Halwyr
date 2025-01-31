@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/gabriell_m0ura/profilecard/?igsh=NGx5Z3JsaTdjeWRx" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-moura" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-moura-374002348" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </a>
   <a href="https://wa.me/+5534996886441" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-%25D3663?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
