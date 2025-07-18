@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" height="50"/>
-          
+  <img src="https://gist.githubusercontent.com/Halwyr/95ffbb0aaef0f9090c69933066c20088/raw/76df58f76460ddf5f5170615a26ec57a85ce95ab/totvs.svg" width="50" height="50"/>
 </div>
 
 #### 🧰 Databases & IDEs
@@ -59,6 +59,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50"/>        
 </div>
 
 ---
@@ -72,5 +73,4 @@
 </div>
 
 ---
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
